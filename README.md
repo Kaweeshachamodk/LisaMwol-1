@@ -22,11 +22,11 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 <a href="#"><img title="LisaMwol" src="https://img.shields.io/badge/LisaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Shahid-KLDM"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Shahid-KLDM"><img title="Author" src="https://img.shields.io/badge/Author-Shahid-KLDM/LisaMwol?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/Shahid-KLDM">Shahid-KLDM</a> to make it public
     <br>
        | © |
         Reserved |
@@ -36,13 +36,13 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
+  <a href="httsp://github.com/Shahid-KLDM/LisaMwol">
     <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-memanakizhakathil/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/Shahid-KLDM/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shahid-KLDM?color=pink&style=flat-square"></a>
+<a href="https://github.com/Shahid-KLDM/LisaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shahid-KLDM/LisaMwol?color=pink&style=flat-square"></a>
+<a href="https://github.com/Shahid-KLDM/LisaMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shahid-KLDM/LisaMwol?color=pink&style=flat-square"></a>
+<a href="https://github.com/Shahid-KLDM/LisaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shahid-KLDM/LisaMwol?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
