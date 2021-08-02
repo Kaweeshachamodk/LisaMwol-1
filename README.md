@@ -81,7 +81,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shahid-KLDM/LisaMwol)
      </div>
 <br>
 <br >
@@ -95,9 +95,8 @@ bash <(curl -L https://t.ly/tHxh)
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ pkg clone https://github.com/Shahid-KLDM/LisaMwol
+$ cd LisaMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -106,8 +105,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/Shahid-KLDM/LisaMwol
+$ cd LisaMwol
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -137,9 +136,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Shahid-KLDM](https://github.com/Shahid-KLDM.png?size=100)](https://github.com/Shahid-KLDM) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[Shahid-KLDM](https://github.com/Shahid-KLDM)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Author, Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
  
