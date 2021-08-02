@@ -19,10 +19,10 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 <div align="center">
   <img border-radius: 15px src="Meenakshi[2].jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LisaMwol" src="https://img.shields.io/badge/LisaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Shahid-KLDM"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
